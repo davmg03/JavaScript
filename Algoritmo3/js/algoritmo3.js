@@ -1,0 +1,1 @@
+//3.- Realizar un algortimo para adivinar un número entre el 1 y el 100 en el menor número.
